@@ -12,6 +12,10 @@
      - APIRestful
      - Json
 
+## References
+    Until now, the references used in this project are:
+        - https://learndataanalysis.org/source-code-using-google-cloud-storage-api-in-python-for-beginners/
+        - https://understandingdata.com/how-to-clean-and-process-data/
   
   
 
