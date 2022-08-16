@@ -22,5 +22,3 @@ if __name__ == '__main__':
     upload_files_to_bucket('deputies_list', file_path=file_path, bucket_name=bucket_name)
     upload_files_to_bucket('deputies_expenses', file_path=file_path_expenses, bucket_name=bucket_name)             
     
-    
-
