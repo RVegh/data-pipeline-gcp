@@ -17,6 +17,11 @@
         - https://learndataanalysis.org/source-code-using-google-cloud-storage-api-in-python-for-beginners/
         - https://understandingdata.com/how-to-clean-and-process-data/
   
+## Next steps
+    - Create function to delete files in the bucket.
+    - Upgrade write_file and upload_file_to_bucket functions to work regardless of the number of files to be writem and uploaded.
+    - Data quality on data transformation
+
   
 
 
