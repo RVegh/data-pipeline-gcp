@@ -18,9 +18,12 @@
         - https://understandingdata.com/how-to-clean-and-process-data/
   
 ## Next steps
-    - Create function to delete files in the bucket.
+    - Create function to delete files in the bucket. (OK)
+    - Create function to search among the buckets
     - Upgrade write_file and upload_file_to_bucket functions to work regardless of the number of files to be writem and uploaded.
-    - Data quality on data transformation
+    - Maybe create a class to abstract all functions created would be nice
+    - Data quality and data transformation
+    - Dataviz
 
   
 
