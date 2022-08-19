@@ -2,6 +2,8 @@
 
     The main purpose of this project is to create a complete yet simple data pipeline, including ETL, data analysis and DataViz, using technologies as Python, Google Cloud Platform, Jupyter and PowerBI.
 
+    Initially the project is being built only in Python, but I have the intention of upgrade the pipeline using technologies like Airflow, Prefect, Great Expectations, Spark(PySpark) and others while I'm learning and improving my actual hard skills.
+
     The API used in this project is the Brazilian Camara dos Deputados(Chamber of Deputies) Open Data API, and it can be found in this link: https://dadosabertos.camara.leg.br/swagger/api.html#api. This API provides a huge amount of data about Brazil's deputies, and the data used in this project are those of parliamentary expenses.
 
 ## Technologies
